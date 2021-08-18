@@ -1,0 +1,17 @@
+import os,sys
+
+os.system('apt update')
+os.system('apt upgrade')
+os.system('apt install git')
+os.system('apt install wget')
+os.system('apt install curl')
+os.system('apt install openssl')
+os.system('apt install python')
+os.system('apt install python2')
+os.system('apt install nodejs')
+os.system('apt install figlet')
+os.system('pip2 install requests')
+os.system('pip2 install mechanize')
+os.system('pip2 install bs4')
+os.system('pip2 install uncompyle6')
+os.system('npm install -g bash-obfuscate')
